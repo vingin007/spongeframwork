@@ -1,0 +1,7 @@
+/caches
+/.project
+/nbproject
+/config/database.php
+/config/cloud.php
+/template/wap/goods/index.html
+/uploadfile/
